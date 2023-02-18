@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    background-color:rgb(250, 250, 250);
+}
+
+td{
+    text-align: center;
+}
+h1,h2,h3{
+    text-align: center;
+    color: rgb(235, 16, 8);
+}
+
+#IV{
+    background-color: greenyellow;
+}
+#III{
+    background-color: aqua;
+}
+#lab{
+    background-color: gold;
+}
+#tutorial{
+    background-color:tomato;
+}
